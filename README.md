@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
 ```
 
-~~http://gg.gg/tv-live-txt~~  ~~http://gg.gg/tv-live-txt-mirr~~
-~~http://gg.gg/tv-live-m3u~~  ~~http://gg.gg/tv-live-m3u-mirr~~
 
 
 ## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）
@@ -27,7 +25,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 
 > 公平起见赞赏的朋友加微信群交流。公众号私信暗号：咖啡来了！
 
-![image](./assets/Gongzhonghao+appreciate.png)
+![image](./assets/Gongzhonghao+appre1ciate.png)
 
 ## Star History
 
