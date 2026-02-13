@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260212 21:58:14,url
+20260213 21:48:33,url
 
 
 freetv_cctv,#genre#
@@ -29,13 +29,13 @@ CCTV14,https://t.freetv.fun/live/cctv14-8.m3u8
 CCTV14,https://t.freetv.fun/live/cctv14.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-1.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-10.m3u8
+CCTV15,https://t.freetv.fun/live/cctv15-2.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-4.php
 CCTV15,https://t.freetv.fun/live/cctv15-5.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-8.php
 CCTV15,https://t.freetv.fun/live/cctv15.m3u8
 CCTV16,https://t.freetv.fun/live/cctv-16.php
 CCTV16,https://t.freetv.fun/live/cctv16-1.php
-CCTV16,https://t.freetv.fun/live/cctv16-2.php
 CCTV16,https://t.freetv.fun/live/cctv16-3.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-5.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16.m3u8
@@ -56,11 +56,8 @@ CCTV3,https://t.freetv.fun/live/cctv3-3.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-5.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3-9.m3u8
 CCTV3,https://t.freetv.fun/live/cctv3.php
-CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1770948000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-f92331423effbbd1fa846cb6646ec366&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-1.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-2.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-3.m3u8
-CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-4.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-6.m3u8
+CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji-7.m3u8
 CCTV4,https://t.freetv.fun/live/cctv-4-zhong-wen-guo-ji.m3u8
 CCTV4,https://t.freetv.fun/live/cctv4-2.php
 CCTV4,https://t.freetv.fun/live/cctv4-6.php
