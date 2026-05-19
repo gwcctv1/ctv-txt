@@ -1,8 +1,5 @@
 更新时间,#genre#
-20260519 00:10:35,url
+20260520 00:02:25,url
 
 
 freetv_cctv,#genre#
-CCTV13,https://t.freetv.fun/live/cctv13.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15yin-le.smil
-CCTV4,https://t.freetv.fun/live/cctv4zhong-wen-guo-ji.smil
