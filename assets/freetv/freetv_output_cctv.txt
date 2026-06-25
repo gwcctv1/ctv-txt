@@ -1,5 +1,5 @@
 更新时间,#genre#
-20260624 23:24:31,url
+20260625 23:33:11,url
 
 
 freetv_cctv,#genre#
@@ -12,7 +12,6 @@ CCTV1,https://t.freetv.fun/live/cctv1-7.m3u8
 CCTV1,https://t.freetv.fun/live/cctv1-8.m3u8
 CCTV1,https://t.freetv.fun/live/cctv1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10-1.m3u8
-CCTV10,https://t.freetv.fun/live/cctv-10-7.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd-4.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10hd.m3u8
@@ -20,16 +19,13 @@ CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-10.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-11.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-2.m3u8
 CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-6.m3u8
+CCTV10,https://t.freetv.fun/live/cctv-10ke-jiao-7.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-1.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-5.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10-6.m3u8
 CCTV10,https://t.freetv.fun/live/cctv10.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11-1.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11-3.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11-6.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11hd-2.m3u8
-CCTV11,https://t.freetv.fun/live/cctv-11hd-3.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11xi-qu-1.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11xi-qu-7.m3u8
 CCTV11,https://t.freetv.fun/live/cctv-11xi-qu-8.m3u8
@@ -42,7 +38,6 @@ CCTV11,https://t.freetv.fun/live/cctv11-xi-qu.m3u8
 CCTV11,https://t.freetv.fun/live/cctv11.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12-1.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12.m3u8
-CCTV12,https://t.freetv.fun/live/cctv-12hd-1.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12hd-2.m3u8
 CCTV12,https://t.freetv.fun/live/cctv-12hd-4.m3u8
 CCTV12,https://t.freetv.fun/live/cctv12-1.m3u8
@@ -64,9 +59,9 @@ CCTV13,https://t.freetv.fun/live/cctv13-2.m3u8
 CCTV13,https://t.freetv.fun/live/cctv13-6.m3u8
 CCTV13,https://t.freetv.fun/live/cctv13xin-wen-2.m3u8
 CCTV13,https://t.freetv.fun/live/cctv13xin-wen.m3u8
-CCTV14,https://t.freetv.fun/live/cctv-14-1.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14-2.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14.m3u8
+CCTV14,https://t.freetv.fun/live/cctv-14hd-1.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14hd-2.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14hd-4.m3u8
 CCTV14,https://t.freetv.fun/live/cctv-14shao-er-10.m3u8
@@ -89,7 +84,6 @@ CCTV15,https://t.freetv.fun/live/cctv-15yin-le-11.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15yin-le-4.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15yin-le-5.m3u8
 CCTV15,https://t.freetv.fun/live/cctv-15yin-le-9.m3u8
-CCTV15,https://t.freetv.fun/live/cctv15-5.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-6.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-7.m3u8
 CCTV15,https://t.freetv.fun/live/cctv15-8.m3u8
@@ -100,6 +94,7 @@ CCTV16,https://t.freetv.fun/live/cctv16-1.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV16,https://t.freetv.fun/live/cctv16-4.m3u8
 CCTV17,https://t.freetv.fun/live/cctv-17-1.m3u8
+CCTV17,https://t.freetv.fun/live/cctv-17.m3u8
 CCTV17,https://t.freetv.fun/live/cctv17-1.m3u8
 CCTV17,https://t.freetv.fun/live/cctv17-3.m3u8
 CCTV17,https://t.freetv.fun/live/cctv17-6.m3u8
@@ -152,9 +147,8 @@ CCTV5+,https://t.freetv.fun/live/cctv5-plus-6.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus-7.m3u8
 CCTV5+,https://t.freetv.fun/live/cctv5-plus.m3u8
 CCTV5,https://t.freetv.fun/live/cctv-5-2.m3u8
+CCTV5,https://t.freetv.fun/live/cctv-5hd-2.m3u8
 CCTV5,https://t.freetv.fun/live/cctv-5ti-yu.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-11.m3u8
-CCTV5,https://t.freetv.fun/live/cctv5-12.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-13.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-14.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-2.m3u8
@@ -164,7 +158,6 @@ CCTV5,https://t.freetv.fun/live/cctv5-5.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-6.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-8.m3u8
 CCTV5,https://t.freetv.fun/live/cctv5-9.m3u8
-CCTV6,https://t.freetv.fun/live/cctv-6hd-1.m3u8
 CCTV6,https://t.freetv.fun/live/cctv-6hd-2.m3u8
 CCTV6,https://t.freetv.fun/live/cctv-6hd-3.m3u8
 CCTV6,https://t.freetv.fun/live/cctv6-1.m3u8
@@ -187,7 +180,6 @@ CCTV8,https://t.freetv.fun/live/cctv-8.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8hd-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv-8hd-3.m3u8
-CCTV8,https://t.freetv.fun/live/cctv-8hd.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-1.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-10.m3u8
 CCTV8,https://t.freetv.fun/live/cctv8-13.m3u8
@@ -207,3 +199,4 @@ CCTV9,https://t.freetv.fun/live/cctv9-5.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-7.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-8.m3u8
 CCTV9,https://t.freetv.fun/live/cctv9-9.m3u8
+CCTV第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang-2.m3u8
